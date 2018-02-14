@@ -1,0 +1,130 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.11.23)  7 FEB 2018 00:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**otherfile.tex
+(./otherfile.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/latex209.def
+File: latex209.def 2015/02/22 v0.53 Standard LaTeX file
+
+
+          Entering LaTeX 2.09 COMPATIBILITY MODE
+ *************************************************************
+    !!WARNING!!    !!WARNING!!    !!WARNING!!    !!WARNING!!   
+ 
+ This mode attempts to provide an emulation of the LaTeX 2.09
+ author environment so that OLD documents can be successfully
+ processed. It should NOT be used for NEW documents!
+ 
+ New documents should use Standard LaTeX conventions and start
+ with the \documentclass command.
+ 
+ Compatibility mode is UNLIKELY TO WORK with LaTeX 2.09 style
+ files that change any internal macros, especially not with
+ those that change the FONT SELECTION or OUTPUT ROUTINES.
+ 
+ Therefore such style files MUST BE UPDATED to use
+          Current Standard LaTeX: LaTeX2e.
+ If you suspect that you may be using such a style file, which
+ is probably very, very old by now, then you should attempt to
+ get it updated by sending a copy of this error message to the
+ author of that file.
+ *************************************************************
+
+\footheight=\dimen102
+\@maxsep=\dimen103
+\@dblmaxsep=\dimen104
+\@cla=\count79
+\@clb=\count80
+\mscount=\count81
+(/usr/share/texlive/texmf-dist/tex/latex/base/tracefnt.sty
+Package: tracefnt 2015/02/21 v3.0k Standard LaTeX package (font tracing)
+\tracingfonts=\count82
+LaTeX Info: Redefining \selectfont on input line 106.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 268.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 269.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 270.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 276.
+LaTeX Info: Redefining \em on input line 286.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 332.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 334.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 336.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+LaTeX Info: Redefining \cal on input line 496.
+LaTeX Info: Redefining \mit on input line 497.
+\bibindent=\dimen105
+) (./otherfile.aux)
+\openout1 = `otherfile.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
+[1
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+(./otherfile.aux) ) 
+Here is how much of TeX's memory you used:
+ 294 strings out of 494946
+ 3282 string characters out of 6180980
+ 48614 words of memory out of 5000000
+ 3664 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 19i,4n,19p,161b,105s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb>
+Output written on otherfile.pdf (1 page, 11698 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
